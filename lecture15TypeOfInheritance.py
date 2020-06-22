@@ -152,7 +152,7 @@ c.m1()#which will come?
 #Child and then Parent 1 and then parent2 
 
 '''
-5.	Hybrid Inheritance 
+5.	Hybrid Inheritance (combination of Multilevel and Multiple inheritance)
 	A	B	C
 	\	/\	|
 	 \     /   \	|
