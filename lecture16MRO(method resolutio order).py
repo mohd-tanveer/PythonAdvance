@@ -6,7 +6,7 @@ B  		C
 
 	D
 
-method resolution order of A:it will search in B then object ===>A,object
+method resolution order of A:it will search in A then object ===>A,object
 method Resolution order of B: it will search in B,A,Object
 Method resolution of order of C: it will search in C,A,Object
 Method Resolution of order of D:D,B,C,A,O
